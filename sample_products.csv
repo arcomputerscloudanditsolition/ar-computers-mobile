@@ -1,0 +1,11 @@
+Product ID,Category,Product Name,Brand,Model,Price,Stock,Image URL,Description
+AR016,Laptop,ASUS VivoBook 15 i5,ASUS,X515EA-BQ312WS,48000,10,https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400,Intel Core i5-1135G7 8GB RAM 512GB SSD 15.6 inch FHD
+AR017,Laptop,HP Pavilion i7 Gaming,HP,15-dk2029TX,75000,6,https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400,Intel Core i7 16GB RAM 512GB SSD GTX 1650 Gaming Laptop
+AR018,Desktop,Office Desktop i3,Custom,AR-Office-001,28000,20,https://images.unsplash.com/photo-1587202372634-32705e3e568e?w=400,Intel i3 12th Gen 8GB RAM 512GB SSD Office Desktop
+AR019,Monitor,32 inch 4K Monitor,LG,32UN500-W,28000,12,https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400,32 inch 4K UHD IPS HDR10 Monitor AMD FreeSync
+AR020,RAM,8GB DDR4 3200MHz,Kingston,KVR32N22S6/8,1800,80,https://images.unsplash.com/photo-1562976540-1502c48ce8b0?w=400,8GB DDR4 3200MHz Desktop Memory CL22
+AR021,Storage,HDD 2TB Desktop,Seagate,ST2000DM008,4500,40,https://images.unsplash.com/photo-1597872252165-4827a235d7bc?w=400,2TB Barracuda 7200RPM SATA Desktop Hard Drive
+AR022,CCTV,DVR 8 Channel 5MP,Dahua,XVR5108HS-I3,8500,15,https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=400,8 Channel Penta-brid 5MP Compact 1U Smart DVR
+AR023,CCTV,Solar WiFi Camera 4MP,TP-Link,VIGI C430,6500,30,https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=400,4MP ColorPro Solar WiFi Outdoor Security Camera
+AR024,Networking,Gigabit Switch 8 Port,TP-Link,TL-SG108,1200,50,https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=400,8 Port Gigabit Unmanaged Network Switch
+AR025,Accessories,Gaming Headset RGB,Zebronics,Zeb-Rush Plus,1500,45,https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400,USB Wired Gaming Headset with RGB Light and Mic

@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "AR Computers",
+    "slug": "ar-computers-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.arcomputers.mobile",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#1a237e"
+      },
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "plugins": [
+      "expo-document-picker",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "301ddf6a-85e1-42b0-8bee-eb5b13263d5c"
+      }
+    }
+  }
+}
